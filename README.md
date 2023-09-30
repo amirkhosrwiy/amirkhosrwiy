@@ -20,11 +20,11 @@ I'm Amir khosrwiy - I'm a Flutter developer, currently, I Study Software Enginee
 
  <summary> <h3>Github Stats<h3>⚡</summary>
     
-![](https://github-readme-stats.vercel.app/api?username=YazdanMne&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YazdanMne)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YazdanMne&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=amirkhosrwiy&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amirkhosrwiy)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirkhosrwiy&layout=compact)
 
  
     
   ## 💰 You can help me by Donating
-<a href="https://www.buymeacoffee.com/yazdandev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/amirkhosrwiy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
