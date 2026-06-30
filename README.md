@@ -108,26 +108,11 @@ Built with Flutter & Dart
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWowMXRlbmo2MjYzYmZheWo1eXZidmFicnQ4N2t6ZXVvZTBycHM2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="150" alt="Evolution"/>
 
 
-📸 Your Photo 2022<br/>
-Behind Old Computer
-
-**Starting the Journey**<br/>
-💻 Old Computer Setup<br/>
-📚 Learning Basics<br/>
-🎓 First Steps in Programming
-
 </td><td align="center" width="50%">
 
 ### 2026
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnppdzNyYTFuY2cwMHVwcnhvMGw2MWo4bXNrYjN1NnBhbHdwb2F1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vLpclx5lofmqnEswm0/giphy.gif" width="150" alt="Evolution"/>
 
-📸 Your Photo 2026<br/>
-Behind Modern Setup
-
-**Professional Developer**<br/>
-💪 Modern Setup<br/>
-📱 Building Mobile Apps<br/>
-🔥 Flutter Expert
 
 </td></tr></table>
 
